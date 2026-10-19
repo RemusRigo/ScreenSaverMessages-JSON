@@ -1,0 +1,5 @@
+{
+   "Microsoft Windows commands": "© 2026 Remus Rigo",
+   "arp -a": "display ARP table",
+   "arp -d": "delete ARP cache entry"
+}
