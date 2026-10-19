@@ -14,13 +14,13 @@ Terminal Messages ScreenSaver
 
 ## 📥 User's Guide
 
-See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and message files.
+Download JSON files and put them in the Messages folder
 
 
 
 ## 🛠️ Statistics
 
-![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+![FILE](https://img.shields.io/badge/File-JSON-yellow)
 <br>
 ![status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/ScreenSaverMessages-JSON/total)
