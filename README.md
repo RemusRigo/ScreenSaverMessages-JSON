@@ -1,7 +1,8 @@
 # ScreenSaver Messages
-Messages for:
-Bouncing Messages ScreenSaver
-Terminal Messages ScreenSaver
+
+Messages for screensavers:
+* [Bouncing Messages ScreenSaver](https://github.com/RemusRigo/BouncingMessagesScreenSaver-VB.NET)
+* Terminal Messages ScreenSaver
 
 
 
