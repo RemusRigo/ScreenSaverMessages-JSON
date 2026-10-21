@@ -1,0 +1,21 @@
+{
+"NMAP": "© 2026 Remus Rigo",
+"nmap <host>": "scan open ports and services",
+"nmap --script <script>": "Run specific NSE script",
+"nmap --top-ports <number>": "Scan most common ports",
+"nmap -A": "Aggressive Scan",
+"nmap -iL": "Input from List",
+"nmap -O": "OS Detection",
+"nmap -sA": "TCP ACK Scan",
+"nmap -sC": "Script Scan using default scripts",
+"nmap -sF": "FIN Scan",
+"nmap -sn": "No Port Scan",
+"nmap -sN": "TCP Null Scan",
+"nmap -sP": "Ping Scan",
+"nmap -sS": "TCP SYN Scan",
+"nmap -sT": "TCP Connect Scan",
+"nmap -sU": "UDP Scan",
+"nmap -sV": "Version Detection",
+"nmap -sX": "XMAS Scan",
+"nmap -T4": "Timing Template"
+}
