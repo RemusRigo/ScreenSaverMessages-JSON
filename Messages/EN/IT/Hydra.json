@@ -1,0 +1,20 @@
+{
+"Hydra commands": "© 2026 Remus Rigo",
+"hydra -h": "Show help menu",
+"hydra -t <threads> <target>": "Number of threads",
+"hydra -v": "Show version",
+"hydra -o <file> <target>": "Save results",
+"hydra -O": "Overwrite results",
+"hydra -R": "Show available services",
+"hydra -s <port>": "Specify port",
+"hydra -m <mode>": "Authentication mode",
+"hydra -l <user>": "User that we know",
+"hydra -L <users.txt>": "User list file",
+"hydra -p <password>": "Password that we know",
+"hydra -P <pass.txt>": "Password list file",
+"hydra -C <user-pass.txt>": "User/password combination file",
+"hydra -x": "Brute force mode",
+"hydra -w <time>": "Wait time between attempts",
+"hydra -M <file>": "Multiple mode",
+"hydra -f": "Exit after first success"
+}
