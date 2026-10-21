@@ -1,6 +1,8 @@
 {
 "Powershell commands": "© 2026 Remus Rigo",
 "Clear-RecycleBin -Confirm:$false": "Empty Recycle Bin (no confirmation)",
+"Get-NetAdapter": "List all network adapters"
+"Get-NetIPConfiguration": "Display network configuration"
 "Get-PSDrive -PSProvider FileSystem": "Show mapped drives and remote paths"
 "Get-SmbConnection": "Show active SMB connections"
 "Get-SmbMapping": "Show active SMB connections"
