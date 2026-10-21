@@ -1,5 +1,6 @@
 {
 "NMAP": "© 2026 Remus Rigo",
+"nmap <host>": "scan open ports and services",
 "nmap --script <script>": "Run specific NSE script",
 "nmap --top-ports <number>": "Scan most common ports",
 "nmap -A": "Aggressive Scan",
