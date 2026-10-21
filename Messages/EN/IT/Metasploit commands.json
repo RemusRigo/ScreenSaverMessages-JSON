@@ -25,5 +25,5 @@
 "show msfdb status": "Database status",
 "show options": "Show module options",
 "show payloads": "List payloads",
-"use post/[module]": "Post-exploitation",
+"use post/[module]": "Post-exploitation"
 }

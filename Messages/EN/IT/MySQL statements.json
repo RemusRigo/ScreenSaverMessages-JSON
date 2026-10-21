@@ -1,0 +1,5 @@
+{
+"MySQL statements": "© 2026 Remus Rigo",
+"SELECT ID, Username\nFROM Users;": "show ID and Username from Users table",
+"SELECT COUNT(*) AS TotalUsers\nFROM Users;": "count rows Users table"
+}
