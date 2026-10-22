@@ -1,9 +1,24 @@
 {
-"Powershell commands": "© 2026 Remus Rigo",
-"Clear-RecycleBin -Confirm:$false": "Empty Recycle Bin (no confirmation)",
-"Get-NetAdapter": "List all network adapters"
-"Get-NetIPConfiguration": "Display network configuration"
-"Get-PSDrive -PSProvider FileSystem": "Show mapped drives and remote paths"
-"Get-SmbConnection": "Show active SMB connections"
-"Get-SmbMapping": "Show active SMB connections"
+   "Powershell commands": "© 2026 Remus Rigo",
+   "Clear-RecycleBin -Confirm:$false": "Empty Recycle Bin (no confirmation)",
+   "Disable-NetFirewallRule": "Disable firewall rule",
+   "Enable-NetFirewallRule": "Enable firewall rule",
+   "Get-NetAdapter": "List all network adapters",
+   "Get-NetFirewallRule": "List firewall rules",
+   "Get-NetNeighbor": "Display ARP table",
+   "Get-NetRoute": "Display routing table",
+   "Get-DnsClientServerAddress": "view DNS server configuration",
+   "Get-NetIPConfiguration": "Display network configuration",
+   "Get-NetTCPConnection": "list active TCP sessions",
+   "Get-PSDrive -PSProvider FileSystem": "Show mapped drives and remote paths",
+   "Get-SmbConnection": "Show active SMB connections",
+   "Get-SmbMapping": "Show active SMB connections",
+   "Restart-NetAdapter": "restart a network interface",
+   "New-NetFirewallRule": "Create new firewall rule",
+   "New-NetRoute": "Create new network route",
+   "Remove-NetRoute": "Delete network route",
+   "Resolve-DnsName <domain>": "resolve DNS names",
+   "Set-DnsClientServerAddress": "change DNS servers",
+   "Test-NetConnection <host>": "test network connectivity",
+   "Test-NetConnection <host> -Port <port>": "test TCP port connectivity"
 }
